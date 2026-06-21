@@ -4,7 +4,7 @@ End-to-end Python analysis of customer behaviour and churn drivers in the teleco
 
 ## Context
 
-MSc in Statistics & Data Science, University College Dublin. Assignment combining exploratory analysis, statistical testing, supervised learning, and unsupervised segmentation on real-world customer data.
+MSc in Statistics & Data Science, University College Dublin. End-to-end project combining exploratory analysis, statistical testing, supervised learning, and unsupervised segmentation on real-world customer data.
 
 ## What it does
 
